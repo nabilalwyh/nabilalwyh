@@ -36,9 +36,6 @@ A collection of Machine Learning projects developed during the Coding Camp 2025 
   <a href="https://www.linkedin.com/in/nabilaalawiyah" title="LinkedIn">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/> 
   </a>
-  <a href="https://github.com/nabilalwyh" title="GitHub">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/> 
-  </a>
 </p>
 
 ---
