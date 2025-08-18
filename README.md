@@ -60,10 +60,10 @@ A collection of Machine Learning projects developed during the Coding Camp 2025 
 <details>
   <summary>⚡ <strong>Stats & Streak</strong></summary>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilalwyh&theme=tokyonight"/>
 </details>
 
 <details>
   <summary>📊 <strong>Most Used Languages</strong></summary>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabilalwyh&layout=compact&langs_count=8&theme=tokyonight"/>
 </details>
