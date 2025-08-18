@@ -22,7 +22,6 @@
 A collection of Machine Learning projects developed during the Coding Camp 2025 program.  
 
 🌟 **VM LePKom – Gunadarma University**  
-- [Fundamental Web](https://github.com/nabilalwyh/web-for-beginner)  
 - [Golang Beginner](https://github.com/nabilalwyh/Golang-Beginner)  
 
 
