@@ -59,7 +59,7 @@ A collection of Machine Learning projects developed during the Coding Camp 2025 
 
 <details>
   <summary>⚡ <strong>Stats & Streak</strong></summary>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabilalwyh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilalwyh&theme=tokyonight"/>
 </details>
 
