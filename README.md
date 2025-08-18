@@ -7,15 +7,13 @@
 ---
 
 ## 👨🏻‍💻 About Me
+<ul>
+  <li><b>Name:</b> Nabila Alawiyah</li>
+  <li><b>Study:</b> 🎓 Informatics @ Universitas Gunadarma</li>
+  <li><b>Track:</b> 📊 Data Analyst & Machine Learning</li>
+  <li><b>Fun Fact:</b> ☕ Fueled by coffee + data curiosity</li>
+</ul>
 
-```python
-class Nabila:
-    def __init__(self):
-        self.name    = "Nabila Alawiyah"
-        self.study   = "🎓 Informatics @ Universitas Gunadarma"
-        self.track   = "📊 Data Analyst & Machine Learning"
-        self.skills  = ["Python"]
-        self.funfact = "☕ Fueled by coffee + data curiosity"
 ---
 
 ## 📂 Featured Repositories  
