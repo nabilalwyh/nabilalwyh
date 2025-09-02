@@ -59,11 +59,12 @@ A collection of **React & Back-End with AI** projects developed during the Asah 
 
 <details>
   <summary>⚡ <strong>Stats & Streak</strong></summary>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabilalwyh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilalwyh&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabilalwyh&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilalwyh&background=eff1f5&hide_border=true"/>
 </details>
 
 <details>
   <summary>📊 <strong>Most Used Languages</strong></summary>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabilalwyh&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabilalwyh&layout=compact&langs_count=8&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"/>
 </details>
+
