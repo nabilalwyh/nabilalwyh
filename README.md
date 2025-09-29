@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello, world!👋 I’m <b>Nabila</b> Alawiyah</h1>
-  <h3>Data & Machine Learning Enthusiast • Hustler • IT Project Management </h3>
+  <h3>Data & Machine Learning Enthusiast • Hustler • IT Project & Product Management </h3>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </div>
 
