@@ -10,7 +10,8 @@
 <ul>
   <li><b>Name:</b> Nabila Alawiyah</li>
   <li><b>Study:</b> 🎓 Informatics @ Universitas Gunadarma</li>
-  <li><b>Track:</b> 📊 Data Analyst & Machine Learning</li>
+  <li><b>Track:</b> 📊 Product Management / Data Analyst / Machine Learning</li>
+  <li><b>Experience:</b> 👩🏻‍💻Product Manager Intern @ PT Jalin Pembayaran Nusantara </li>
   <li><b>Fun Fact:</b> ☕ Fueled by coffee + data curiosity</li>
 </ul>
 
